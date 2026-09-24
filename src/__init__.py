@@ -1,0 +1,1 @@
+"""Image-based product authenticity verification."""

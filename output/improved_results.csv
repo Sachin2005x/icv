@@ -1,0 +1,31 @@
+file,expected,score,verdict,confidence
+C:\Users\sachi\OneDrive\Desktop\icv\samples\genuine\genuine_001.jpg,genuine,99.6,GENUINE,99.5
+C:\Users\sachi\OneDrive\Desktop\icv\samples\genuine\genuine_002.jpg,genuine,75.1,LIKELY GENUINE,70.4
+C:\Users\sachi\OneDrive\Desktop\icv\samples\genuine\genuine_003.jpg,genuine,89.6,GENUINE,73.6
+C:\Users\sachi\OneDrive\Desktop\icv\samples\genuine\genuine_004.jpg,genuine,76.1,LIKELY GENUINE,74.0
+C:\Users\sachi\OneDrive\Desktop\icv\samples\genuine\genuine_005.jpg,genuine,86.2,GENUINE,70.8
+C:\Users\sachi\OneDrive\Desktop\icv\samples\genuine\genuine_006.jpg,genuine,86.8,GENUINE,65.8
+C:\Users\sachi\OneDrive\Desktop\icv\samples\genuine\genuine_007.jpg,genuine,74.4,LIKELY GENUINE,69.8
+C:\Users\sachi\OneDrive\Desktop\icv\samples\genuine\genuine_008.jpg,genuine,94.5,GENUINE,87.2
+C:\Users\sachi\OneDrive\Desktop\icv\samples\genuine\genuine_009.jpg,genuine,93.5,GENUINE,84.7
+C:\Users\sachi\OneDrive\Desktop\icv\samples\genuine\genuine_010.jpg,genuine,86.4,GENUINE,65.0
+C:\Users\sachi\OneDrive\Desktop\icv\samples\genuine\genuine_011.jpg,genuine,75.8,LIKELY GENUINE,68.5
+C:\Users\sachi\OneDrive\Desktop\icv\samples\genuine\genuine_012.jpg,genuine,83.7,LIKELY GENUINE,74.6
+C:\Users\sachi\OneDrive\Desktop\icv\samples\genuine\genuine_013.jpg,genuine,85.4,GENUINE,61.9
+C:\Users\sachi\OneDrive\Desktop\icv\samples\genuine\genuine_014.jpg,genuine,90.4,GENUINE,76.1
+C:\Users\sachi\OneDrive\Desktop\icv\samples\genuine\genuine_015.jpg,genuine,76.7,LIKELY GENUINE,76.2
+C:\Users\sachi\OneDrive\Desktop\icv\samples\counterfeit\fake_001.jpg,counterfeit,64.6,UNCERTAIN,53.6
+C:\Users\sachi\OneDrive\Desktop\icv\samples\counterfeit\fake_002.jpg,counterfeit,74.0,LIKELY GENUINE,71.5
+C:\Users\sachi\OneDrive\Desktop\icv\samples\counterfeit\fake_003.jpg,counterfeit,68.5,UNCERTAIN,60.4
+C:\Users\sachi\OneDrive\Desktop\icv\samples\counterfeit\fake_004.jpg,counterfeit,75.0,LIKELY GENUINE,72.1
+C:\Users\sachi\OneDrive\Desktop\icv\samples\counterfeit\fake_005.jpg,counterfeit,52.2,LIKELY COUNTERFEIT,55.8
+C:\Users\sachi\OneDrive\Desktop\icv\samples\counterfeit\fake_006.jpg,counterfeit,86.3,GENUINE,66.5
+C:\Users\sachi\OneDrive\Desktop\icv\samples\counterfeit\fake_007.jpg,counterfeit,47.4,LIKELY COUNTERFEIT,76.1
+C:\Users\sachi\OneDrive\Desktop\icv\samples\counterfeit\fake_008.jpg,counterfeit,93.9,GENUINE,85.5
+C:\Users\sachi\OneDrive\Desktop\icv\samples\counterfeit\fake_009.jpg,counterfeit,61.3,UNCERTAIN,56.6
+C:\Users\sachi\OneDrive\Desktop\icv\samples\counterfeit\fake_010.jpg,counterfeit,75.0,LIKELY GENUINE,67.8
+C:\Users\sachi\OneDrive\Desktop\icv\samples\counterfeit\fake_011.jpg,counterfeit,53.2,LIKELY COUNTERFEIT,75.2
+C:\Users\sachi\OneDrive\Desktop\icv\samples\counterfeit\fake_012.jpg,counterfeit,83.0,LIKELY GENUINE,74.2
+C:\Users\sachi\OneDrive\Desktop\icv\samples\counterfeit\fake_013.jpg,counterfeit,52.9,LIKELY COUNTERFEIT,55.8
+C:\Users\sachi\OneDrive\Desktop\icv\samples\counterfeit\fake_014.jpg,counterfeit,90.1,GENUINE,76.7
+C:\Users\sachi\OneDrive\Desktop\icv\samples\counterfeit\fake_015.jpg,counterfeit,43.6,LIKELY COUNTERFEIT,75.1

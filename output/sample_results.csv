@@ -1,0 +1,31 @@
+file,expected,score,verdict,confidence
+samples\genuine\genuine_001.jpg,genuine,100.0,GENUINE,100.0
+samples\genuine\genuine_002.jpg,genuine,58.3,UNCERTAIN,77.1
+samples\genuine\genuine_003.jpg,genuine,76.9,LIKELY GENUINE,70.0
+samples\genuine\genuine_004.jpg,genuine,60.3,UNCERTAIN,77.2
+samples\genuine\genuine_005.jpg,genuine,82.3,LIKELY GENUINE,69.5
+samples\genuine\genuine_006.jpg,genuine,73.3,LIKELY GENUINE,65.4
+samples\genuine\genuine_007.jpg,genuine,57.5,UNCERTAIN,77.2
+samples\genuine\genuine_008.jpg,genuine,84.7,LIKELY GENUINE,77.7
+samples\genuine\genuine_009.jpg,genuine,82.9,LIKELY GENUINE,75.9
+samples\genuine\genuine_010.jpg,genuine,72.5,LIKELY GENUINE,64.5
+samples\genuine\genuine_011.jpg,genuine,58.7,UNCERTAIN,78.0
+samples\genuine\genuine_012.jpg,genuine,70.1,LIKELY GENUINE,73.5
+samples\genuine\genuine_013.jpg,genuine,71.0,LIKELY GENUINE,62.6
+samples\genuine\genuine_014.jpg,genuine,78.2,LIKELY GENUINE,71.6
+samples\genuine\genuine_015.jpg,genuine,62.4,UNCERTAIN,76.5
+samples\counterfeit\fake_001.jpg,counterfeit,84.9,LIKELY GENUINE,62.9
+samples\counterfeit\fake_002.jpg,counterfeit,58.0,UNCERTAIN,77.3
+samples\counterfeit\fake_003.jpg,counterfeit,62.1,UNCERTAIN,53.3
+samples\counterfeit\fake_004.jpg,counterfeit,59.6,UNCERTAIN,77.3
+samples\counterfeit\fake_005.jpg,counterfeit,70.4,LIKELY GENUINE,64.2
+samples\counterfeit\fake_006.jpg,counterfeit,72.9,LIKELY GENUINE,65.2
+samples\counterfeit\fake_007.jpg,counterfeit,46.1,LIKELY COUNTERFEIT,70.6
+samples\counterfeit\fake_008.jpg,counterfeit,84.0,LIKELY GENUINE,77.5
+samples\counterfeit\fake_009.jpg,counterfeit,75.3,LIKELY GENUINE,48.8
+samples\counterfeit\fake_010.jpg,counterfeit,57.6,UNCERTAIN,77.3
+samples\counterfeit\fake_011.jpg,counterfeit,46.9,LIKELY COUNTERFEIT,71.5
+samples\counterfeit\fake_012.jpg,counterfeit,69.8,UNCERTAIN,74.6
+samples\counterfeit\fake_013.jpg,counterfeit,64.0,UNCERTAIN,46.7
+samples\counterfeit\fake_014.jpg,counterfeit,78.2,LIKELY GENUINE,71.8
+samples\counterfeit\fake_015.jpg,counterfeit,45.1,LIKELY COUNTERFEIT,69.5
